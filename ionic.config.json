@@ -1,0 +1,7 @@
+{
+  "name": "UTravy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
